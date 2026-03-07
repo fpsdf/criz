@@ -5,3 +5,4 @@ git remote add origin https://github.com/fpsdf/criz
 git add .
 git commit -m "update"
 git push origin main --force
+pause
